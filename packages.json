@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "plugins": [
+      {
+        "name": "YCode-Base-Application",
+        "url": "https://github.com/jhonny-me/YCode-ios-xcode-template.git",
+        "description": "Xcode template to quick start for a commercial development"
+      }
+    ]
+  }
+}
